@@ -1,8 +1,3 @@
 # Answer Business Questions Using SQL 
-Help a Record Store to explore new business opportunity
+Help a Record Store to explore new business opportunity by finding out which gener sells the best in USA, which countries would be our next target market, and which selling option is more profitable.
 
--Find out which gener sells the best in USA 
-
--Which countries would be our next target market
-
--Album vs. Single Track, which option is more profitable 
