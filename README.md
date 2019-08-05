@@ -8,4 +8,4 @@ Help a Record Store to explore new business opportunity by finding out which gen
 - Based on my EDA result, I would recommend against purchasing only select tracks from albums from record companies, since customers are more likely to select certain tracks instead of purchasing the whole album.
 
 ### For more detailed approach in queries, please check my ipynb. 
-If the notebook is not loading well, please check:https://nbviewer.jupyter.org/github/shiyueamy/Answer-Business-Questions-in-Music-Industry-using-SQL
+If the notebook is not loading well, please check:https://nbviewer.jupyter.org/github/shiyueamy/Answer-Business-Questions-in-Music-Industry-using-SQL/blob/master/SQL%20business%20question.ipynb
